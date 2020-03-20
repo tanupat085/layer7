@@ -10,4 +10,4 @@
 
 ## Usage
 
-    perl ./layer7.pl
+    perl ./layer7.pl [url] [connect] [per connect] [1.1.1.1]
